@@ -1,0 +1,15 @@
+export const COLORS = {
+  BLUE: '#3B49C4',
+  BLUE_LIGHT: '#8389c6',
+  BLUE_TEXT: '#D0D5FF',
+  GREY_SLIGHTLY_DARK: '#D1D1D1',
+  GREY: '#DEDEDE',
+  WHITE: '#ffffff',
+  OVERLAY_LIGHT: 'rgba(255,255,255,0.05)',
+  GREY_TRANSPARENT: 'rgba(235,235,239,0.71)',
+  GREY_LIGHT: '#EBEBEF',
+  GREY_DARK: '#818498',
+  TEXT: '#2A2B31',
+  BLUE_DARK: '#12163A',
+  RED: '#f33e3e',
+}
